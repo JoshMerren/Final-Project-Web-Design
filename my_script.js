@@ -1,0 +1,1 @@
+alert("The update box at the bottom of the page does not work just so you know. So you dont have to enter anything if you dont feel like it.");
